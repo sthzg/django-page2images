@@ -1,0 +1,2 @@
+django-page2images
+==================
